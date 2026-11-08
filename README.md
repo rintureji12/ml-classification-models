@@ -20,9 +20,9 @@ served through an interactive Streamlit app.
   (Decision Tree and Naive Bayes do not need scaling).
 
 ## c. GitHub Repository Link
-`https://github.com/rintureji12/ml-classification-models`
+<https://github.com/rintureji12/ml-classification-models>
 
-Streamlit app: `https://ml-classification-models-rintureji.streamlit.app/`
+Streamlit app: <https://ml-classification-models-rintureji.streamlit.app/>
 
 ## d. Models Used
 
